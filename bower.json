@@ -1,0 +1,19 @@
+{
+  "name": "phaser-test",
+  "version": "0.0.0",
+  "authors": [
+    "Matt Lee <matt@madleedesign.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "phaser": "~1.1.5"
+  }
+}
